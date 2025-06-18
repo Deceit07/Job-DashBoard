@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "TechCorp",
+    "location": "Delhi",
+    "experience": "1-3"
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "company": "SoftWare Inc.",
+    "location": "Mumbai",
+    "experience": "3-5"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Engineer",
+    "company": "Webify",
+    "location": "Remote",
+    "experience": "fresher"
+  }
+]
